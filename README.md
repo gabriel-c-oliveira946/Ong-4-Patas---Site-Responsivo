@@ -17,11 +17,6 @@ Este trabalho prático foi desenvolvido para o curso técnico em **Desenvolvimen
 * **Tablet:** Adaptação fluida do layout, ajustando as porcentagens para garantir a organização visual.
 * **Mobile:** Reorganização total dos elementos (empilhamento vertical) para navegação intuitiva em telas menores.
 * **UI/UX:** Efeitos visuais de `hover` nos cards (zoom, mudança de cor e box-shadow) para melhorar a interatividade.
-
-##  Como Executar Localmente
-1. Clone ou baixe os arquivos do projeto.
-2. Certifique-se de que todos os arquivos de imagem, `index.html` e `estilos.css` estejam na mesma pasta.
-3. Abra o arquivo `index.html` no seu navegador de preferência.
-
+  
 ---
 Desenvolvido por **Gabriel Costa de Oliveira**.
