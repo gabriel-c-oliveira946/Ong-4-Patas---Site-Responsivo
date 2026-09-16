@@ -10,7 +10,6 @@ Este trabalho prático foi desenvolvido para o curso técnico em **Desenvolvimen
 ##  Tecnologias Utilizadas
 * **HTML5:** Estruturação semântica da página.
 * **CSS3:** Estilização, uso de variáveis (`:root`) e responsividade avançada utilizando `@media queries`. 
-* *Nota:* O projeto foi construído **sem** o uso de frameworks (como Bootstrap ou Tailwind), Flexbox, CSS Grid ou JavaScript, cumprindo estritamente os requisitos obrigatórios da avaliação.
 
 ##  Funcionalidades e Layout
 * **Desktop:** Exibição das imagens alinhadas lado a lado via `inline-block`.
